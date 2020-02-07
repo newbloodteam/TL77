@@ -1,2 +1,2 @@
-# TL77
-Press here: https://github.com/orgs/newbloodteam/teams/tl77
+# TL77 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl77
